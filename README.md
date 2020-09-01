@@ -3,3 +3,4 @@ Primeira aula de Git, fazendo mudanças no README.
 
 Segunda aula de Git, praticando os comando Git e fazendo mudanças no README.
 
+Terceira alteração no Git, 01/09
